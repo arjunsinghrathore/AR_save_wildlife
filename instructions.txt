@@ -1,0 +1,16 @@
+Please refer the video for gudence it will be much clear how to operate the app.
+
+1.As the APP opens it will prompt you to create a plane first!
+2.You have to scan around(please choose a realtively large area) and wait for planes to appear in grid mesh.Click on Marker which will show a marker on detected planes this will help you to place objects.
+3.Now you can select plane option and  place your game plane.
+4.Below are the menu options to slelect wheter to place animals or plants select your choice if you choose animals for example follow this process:
+  i)select animal fof your choice from the panel and then click place (essential as a check).Do take guidence from video for this step.
+  ii)click on the screen the animal will be placed on the location where the pointer is.
+5.Their is an overall score of the game which will increase on planting trees and feeding animals while decrease on placing animals and not feeding them.
+6.Their is a daily task option where if completed player gets +20 points.
+7.Clicking on screen where animal is placed displays information about animal currently first four via raycast.(refer video too!)
+8.Now their is hunger for each animal as displayed in the database as soon as animal is created if it reaches a crertain low level than a warning will apear on top of the animal and it will die if not fed.
+9.To feed an animal first click on postion of the screen where the animal is placed than select feed.Health of animal will be restored(Please don't spam the button) and score will increase.
+10.To stop displaying informaiton you should click on animal again just select only one animal once.
+11.The game will continue till score is exhausted.
+12.Please do refer the video for any query.
